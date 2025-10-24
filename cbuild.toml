@@ -1,0 +1,5 @@
+[package]
+name="vkheaders"
+version="0.0.1"
+description="vulkan c headers"
+include="include"
